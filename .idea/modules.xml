@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ElectronicCommerce.iml" filepath="$PROJECT_DIR$/ElectronicCommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cappu-annotations/cappu-annotations.iml" filepath="$PROJECT_DIR$/cappu-annotations/cappu-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cappu-compiler/cappu-compiler.iml" filepath="$PROJECT_DIR$/cappu-compiler/cappu-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cappu-core/cappu-core.iml" filepath="$PROJECT_DIR$/cappu-core/cappu-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cappu-ec/cappu-ec.iml" filepath="$PROJECT_DIR$/cappu-ec/cappu-ec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+    </modules>
+  </component>
+</project>

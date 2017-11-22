@@ -1,0 +1,1 @@
+include ':example', ':cappu-annotations', ':cappu-compiler', ':cappu-core', ':cappu-ec'
